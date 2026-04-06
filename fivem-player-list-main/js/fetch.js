@@ -205,7 +205,7 @@ export const renderPlayers = (players, search = false) => {
 	footerTd.rowSpan = 5;
 
 	const span1 = document.createElement('span');
-	span1.textContent = 'This page is not affiliated with FiveM or any other server.';
+	span1.textContent = 'Updatet für FiveM servers.';
 	footerTd.appendChild(span1);
 	footerTd.appendChild(document.createElement('br'));
 
@@ -213,10 +213,10 @@ export const renderPlayers = (players, search = false) => {
 	span2.appendChild(document.createTextNode('Created by '));
 
 	const link = document.createElement('a');
-	link.href = 'https://github.com/igorovh';
+	link.href = 'https://discord.gg/jTJ3k7WDz4';
 	link.target = '_blank';
 	link.rel = 'noopener noreferrer';
-	link.textContent = 'igorovh';
+	link.textContent = 'HYSCHOOL';
 
 	span2.appendChild(link);
 	span2.appendChild(document.createTextNode('.'));
