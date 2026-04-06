@@ -1,5 +1,5 @@
 //  endpoints
-export const API_BASE_URL = 'https://fivem-player-list-by-paco.warilo01992.workers.dev';
+export const API_BASE_URL = 'https://fivem-proxy.warilo01992.workers.dev';
 export const SERVERS_ICON_URL = 'https://servers-live.fivem.net/servers/icon';
 
 // links templates
