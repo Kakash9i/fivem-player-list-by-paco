@@ -2,7 +2,7 @@
 export const API_BASE_URL = 'https://fivem-proxy.warilo01992.workers.dev';
 export const SERVERS_ICON_URL = 'https://servers-live.fivem.net/servers/icon';
 
-// links templates
+
 export const STEAM_PROFILE_URL = 'https://steamcommunity.com/profiles/%id%';
 export const DISCORD_PROFILE_URL = 'https://discord.com/users/%id%';
 
